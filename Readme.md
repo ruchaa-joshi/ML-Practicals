@@ -1,4 +1,4 @@
-# ML-Practicals
+# Machine Learning 
 
 A collection of Machine Learning practical experiments implemented using Python and Jupyter Notebook as part of academic coursework.
 
@@ -6,9 +6,9 @@ A collection of Machine Learning practical experiments implemented using Python 
 
 This repository contains practical implementations of various Machine Learning concepts, including data preprocessing, classification, regression, model evaluation, and different machine learning algorithms.
 
-## Experiments
+## Concepts
 
-| No. | Experiment                              |
+| No. | Titles                                  |
 | --- | --------------------------------------- |
 | 01  | Data Preprocessing                      |
 | 02  | EDA and Visualization                   |
@@ -18,6 +18,8 @@ This repository contains practical implementations of various Machine Learning c
 | 06  | K-nearest neighbour                     |
 | 07  | Comparison of Regression Algorithms     |
 | 08  | Comparison of Classification Algorithms |
+| 09  | K-Means Clustering                      |
+| 10  | Single-Layer ANN                        |
 
 ## Technologies Used
 
